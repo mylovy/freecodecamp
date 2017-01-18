@@ -1,4 +1,8 @@
 # Free Code Camp
+
+> Thomas Vaeth 大神的FCC项目代码，基本包含了前端题目的所有代码题，另外他的每个实践项目都做得很精致，值得学习。
+
+
 ### Basic Front End Development Projects
 * [Personal Portfolio Webpage](http://codepen.io/thomasvaeth/full/WQxQem/)
   - HTML
